@@ -1,0 +1,11 @@
+name: ceds_ml_tutorial
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - jupyterlab
+  - ipykernel
+  - pandas=1.3
+  - xarray=0.19
+  - iris=3.1
+  - scikit-learn=0.24
